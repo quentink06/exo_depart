@@ -1,0 +1,31 @@
+h1{
+    width: 384px;
+    height: 288px;
+    background: transparent url('img/background.jpg') no-repeat;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-size: x-large;
+    text-align: center;
+}
+
+.chat-picture{
+    width: 650px;
+    position: relative;
+    left: 270px;
+}
+
+.icone-de-description{
+    display: inline-block;
+    width: 80px;
+    height: 75px;
+    margin: 1em;
+
+}
+
+.text-de-description{
+    display: inline-block;
+}
